@@ -1,0 +1,10 @@
+C:\Users\pedro\Desktop\github\EP_IAA\EpIAA\EpIAA\bin\Debug\netcoreapp1.1\EpIAA.deps.json
+C:\Users\pedro\Desktop\github\EP_IAA\EpIAA\EpIAA\bin\Debug\netcoreapp1.1\EpIAA.runtimeconfig.json
+C:\Users\pedro\Desktop\github\EP_IAA\EpIAA\EpIAA\bin\Debug\netcoreapp1.1\EpIAA.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\github\EP_IAA\EpIAA\EpIAA\bin\Debug\netcoreapp1.1\EpIAA.dll
+C:\Users\pedro\Desktop\github\EP_IAA\EpIAA\EpIAA\bin\Debug\netcoreapp1.1\EpIAA.pdb
+C:\Users\pedro\Desktop\github\EP_IAA\EpIAA\EpIAA\obj\Debug\netcoreapp1.1\EpIAA.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\github\EP_IAA\EpIAA\EpIAA\obj\Debug\netcoreapp1.1\EpIAA.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\github\EP_IAA\EpIAA\EpIAA\obj\Debug\netcoreapp1.1\EpIAA.AssemblyInfo.cs
+C:\Users\pedro\Desktop\github\EP_IAA\EpIAA\EpIAA\obj\Debug\netcoreapp1.1\EpIAA.dll
+C:\Users\pedro\Desktop\github\EP_IAA\EpIAA\EpIAA\obj\Debug\netcoreapp1.1\EpIAA.pdb

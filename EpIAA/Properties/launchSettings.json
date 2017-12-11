@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EpIAA": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\pedro\\Documents\\arquivoTeste.txt 3"
+    }
+  }
+}
